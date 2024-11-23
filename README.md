@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungdinh0103.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/trungdinh0103.svg" width="1200" alt="trungdinh0103-official" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
